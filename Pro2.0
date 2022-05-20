@@ -1,0 +1,5 @@
+pkg install git - y
+git clone https://github.com/Preadiking/Pro2.0.git
+cd pro2.0
+chmod +x *
+bash install.sh
